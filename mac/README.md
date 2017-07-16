@@ -1,9 +1,9 @@
-Workman keyboard layout for MacOS
+Kuality keyboard layout for MacOS
 ===========
 
-Workman and Workman-P Mac OSX keyboard layout packaged as a keylayout bundle includes alternate icons, similar in style to the system icons for other layouts like Dvorak or Colemak.
+Kuality and Kuality-P Mac OSX keyboard layout packaged as a keylayout bundle includes alternate icons, similar in style to the system icons for other layouts like Dvorak or Colemak.
 
-Workman-IO is the same as Workman, but with the I and O letters swapped. It was proposed by vjustin and has not been endorsed by OJ.
+Kuality-IO is the same as Kuality, but with the I and O letters swapped. It was proposed by vjustin and has not been endorsed by OJ.
 
 ## Installation
 
@@ -11,41 +11,41 @@ Workman-IO is the same as Workman, but with the I and O letters swapped. It was 
    * Copying the bundle to /Library/Keyboard Layouts/ requires administrator rights to the computer, but will allow the layout system-wide, including the OS X login screen. To enable input options on the login window, check the option in System Preferences / Users & Groups / Login Options / Show Input menu in login window.
 	* ~/Library/Keyboard Layouts/ needs less access and is specific to just the user’s account it is saved to.
  * Log out of OS X and log back in.
- * Open System Preferences, click on the Language & Text icon, and in the Input Menu tab enable the Workman and/or Workman-P layout.
+ * Open System Preferences, click on the Language & Text icon, and in the Input Menu tab enable the Kuality and/or Kuality-P layout.
  * Make sure that the Show input menu in menu bar box is also checked.
  * To switch quickly between layouts you can press Command+Space or Command+Option+Space. Note, this hotkey combination conflicts with the default settings for showing Spotlight. Check your settings in System Preferences, Keyboard, Keyboard Shortcuts tab, Spotlight against Keyboard & Text Input.
 
 ## Alternatives
 
-There are variations to the Workman layout:
+There are variations to the Kuality layout:
 
 ### Programmer
 Special symbols (!, @, #, ...) are main characters of the top row so you need to hold
   the **SHIFT** key to input the numbers.
 
-* Workman Programmer
-![Workman Programmer](screenshots/workman-P/workman-P.png)
+* Kuality Programmer
+![Kuality Programmer](screenshots/workman-P/workman-P.png)
 
-* Workman Programmer - **SHIFT ⇧**
-![Workman Programmer shift](screenshots/workman-P/workman-P_SHIFT.png)
+* Kuality Programmer - **SHIFT ⇧**
+![Kuality Programmer shift](screenshots/workman-P/workman-P_SHIFT.png)
 
 ### IO
 Location of *I* and *O* keys are swapped (This is not officially approved.)
 
-* Workman IO
-![Workman IO](screenshots/workman-IO/workman-IO.png)
+* Kuality IO
+![Kuality IO](screenshots/workman-IO/workman-IO.png)
 
-### Workman Extended
+### Kuality Extended
 
 Adds accented letters and more internationalization.
 
-* Workman Extended - **OPTION ⌥**
-![Workman Extended](screenshots/workman-Extended/workman-ex-alt.png)
+* Kuality Extended - **OPTION ⌥**
+![Kuality Extended](screenshots/workman-Extended/workman-ex-alt.png)
 
-* Workman Extended - **SHIFT+OPTION  (⇧+⌥)**
-![Workman Extended](screenshots/workman-Extended/workman-ex-alt-shift.png)
+* Kuality Extended - **SHIFT+OPTION  (⇧+⌥)**
+![Kuality Extended](screenshots/workman-Extended/workman-ex-alt-shift.png)
 
-### Workman Dead (for programmers)
+### Kuality Dead (for programmers)
 The idea of using [*'dead' keys*](http://goo.gl/SURIC) is based
 on assumption that *pressing 2 easy keys is better than pressing 1 hard key*.
 So to make it easier to type (programming) characters/symbols, we're going to
@@ -61,7 +61,7 @@ To produce the *COMMA* character itself, just hit *SPACE* after entering 'dead' 
 This layout also changes the **Numeric Keypad** to be more programmer friendly when dealing with
 hexadecimal values.
 
-* Main Workman layout
+* Main Kuality layout
 
 ![Main layout](screenshots/workman-dead/main_layout.png)
 

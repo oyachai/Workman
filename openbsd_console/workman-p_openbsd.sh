@@ -1,5 +1,5 @@
 #!/bin/sh
-# Workman-P layout script for OpenBSD console.
+# Kuality-P layout script for OpenBSD console.
 # http://workman.ws/
 # http://www.workmanlayout.com
 

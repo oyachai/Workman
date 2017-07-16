@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Last edited by Ukelele version 2.2.7 on 2014-03-07 at 17:43 (EST)-->
-<!--﻿'Dead' Workman Layout for programmers
+<!--﻿'Dead' Kuality Layout for programmers
 By: Hamid Ghadyani https://github.com/spamwax/workman
 Feb 2013
 
-Combination of Workman, 2nd state of Standard Developer's Dvorak (http://goo.gl/SURIC)
+Combination of Kuality, 2nd state of Standard Developer's Dvorak (http://goo.gl/SURIC)
 and a rearranged "programming" characters layout of Arensito layout (http://www.pvv.org/~hakonhal/main.cgi/keyboard)
 
 
@@ -26,7 +26,7 @@ OPTION produces additional programming characters:
 +=
 ===-->
 <!--Created by Ukelele version 2.2.4 on 2013-02-20 at 00:44 (EST)-->
-<keyboard group="126" id="-16320" name="Workman-Dead" maxout="3">
+<keyboard group="126" id="-16320" name="Kuality-Dead" maxout="3">
     <layouts>
         <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
         <layout first="18" last="18" modifiers="f4" mapSet="994"/>

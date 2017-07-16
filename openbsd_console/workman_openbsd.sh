@@ -1,5 +1,5 @@
 #!/bin/sh
-# Workman layout script for OpenBSD console.
+# Kuality layout script for OpenBSD console.
 # 09-06-2010 OJ Bucao. Public domain.
 # http://workman.ws/
 # http://www.workmanlayout.com
